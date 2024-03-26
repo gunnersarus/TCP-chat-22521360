@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\matma\\TCP chat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5B243A-246E-4401-B00B-66DACE747FEE}|..\\TCPServer\\TCPServer.csproj|f:\\matma\\tcpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5B243A-246E-4401-B00B-66DACE747FEE}|..\\TCPServer\\TCPServer.csproj|f:\\matma\\tcpserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5B243A-246E-4401-B00B-66DACE747FEE}|..\\TCPServer\\TCPServer.csproj|f:\\matma\\tcpserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34952DF1-670B-4CF3-90C3-52A88B48F42D}|TCPclient.csproj|F:\\matma\\TCP chat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34952DF1-670B-4CF3-90C3-52A88B48F42D}|TCPclient.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34952DF1-670B-4CF3-90C3-52A88B48F42D}|TCPclient.csproj|f:\\matma\\tcp chat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34952DF1-670B-4CF3-90C3-52A88B48F42D}|TCPclient.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34952DF1-670B-4CF3-90C3-52A88B48F42D}|TCPclient.csproj|F:\\matma\\TCP chat\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34952DF1-670B-4CF3-90C3-52A88B48F42D}|TCPclient.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5B243A-246E-4401-B00B-66DACE747FEE}|..\\TCPServer\\TCPServer.csproj|f:\\matma\\tcpserver\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\matma\\TCP chat\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\matma\\TCP chat\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAlwC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:22:53.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\matma\\TCP chat\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "F:\\matma\\TCP chat\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAApwDkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:46:13.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\matma\\TCPServer\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\TCPServer\\Form1.Designer.cs",
+              "ToolTip": "F:\\matma\\TCPServer\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\TCPServer\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:24:55.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\matma\\TCPServer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TCPServer\\Program.cs",
+              "ToolTip": "F:\\matma\\TCPServer\\Program.cs",
+              "RelativeToolTip": "..\\TCPServer\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAApwAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:23:34.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\matma\\TCPServer\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\TCPServer\\Form1.cs",
+              "ToolTip": "F:\\matma\\TCPServer\\Form1.cs",
+              "RelativeToolTip": "..\\TCPServer\\Form1.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAawDMAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:48:02.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\matma\\TCPServer\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\TCPServer\\Form1.cs",
+              "ToolTip": "F:\\matma\\TCPServer\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\TCPServer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:47:55.991Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\matma\\TCP chat\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\matma\\TCP chat\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:25:23.657Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

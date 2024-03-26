@@ -1,0 +1,11 @@
+F:\matma\TCPServer\bin\Debug\TCPServer.exe.config
+F:\matma\TCPServer\bin\Debug\TCPServer.exe
+F:\matma\TCPServer\bin\Debug\TCPServer.pdb
+F:\matma\TCPServer\obj\Debug\TCPServer.csproj.AssemblyReference.cache
+F:\matma\TCPServer\obj\Debug\TCPServer.Form1.resources
+F:\matma\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+F:\matma\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.cache
+F:\matma\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+F:\matma\TCPServer\obj\Debug\TCPServer.exe
+F:\matma\TCPServer\obj\Debug\TCPServer.pdb
+F:\matma\TCPServer\obj\Debug\TCP_chat.Form1.resources
